@@ -1,0 +1,4 @@
+grep "ERROR" server.log
+awk '{print $1}' server.log
+sed 's/ERROR/CRITICAL/g' server.log
+grep "ERROR" server.log | awk '{print $2}'
