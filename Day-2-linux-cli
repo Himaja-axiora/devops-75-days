@@ -1,1 +1,14 @@
-
+devops-day2-linux-cli/
+│
+├── logs/
+│   ├── server.log
+│   ├── updated.log
+│   └── errors_only.log
+│
+├── scripts/
+│   └── log_analysis.sh
+│
+├── screenshots/
+│   └── output.png
+│
+└── README.md
