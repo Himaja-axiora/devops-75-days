@@ -1,0 +1,5 @@
+sudo useradd -m dev1
+sudo groupadd developers
+sudo usermod -aG developers dev1
+sudo chmod 770 /company/dev
+ssh-keygen
