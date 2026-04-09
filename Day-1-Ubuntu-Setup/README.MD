@@ -9,7 +9,7 @@ Install Ubuntu server 3 times:
 
 ## What I Did
 
-### ✅ Instance 1 (Manual Setup)
+### Instance 1 (Manual Setup)
 - Launched Ubuntu EC2 instance
 - Connected using EC2 Instance Connect
 - Installed nginx manually using:
@@ -18,13 +18,13 @@ Install Ubuntu server 3 times:
 
 ---
 
-### ✅ Instance 2 (Manual Setup)
+### Instance 2 (Manual Setup)
 - Repeated the same process
 - Practiced server setup again
 
 ---
 
-### ✅ Instance 3 (Automated Setup)
+### Instance 3 (Automated Setup)
 
 Used user-data script to automate installation:
 
