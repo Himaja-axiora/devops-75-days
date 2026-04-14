@@ -1,11 +1,11 @@
 # Day 3 - Users, Groups, Permissions
 
-## 📌 Objective
+## Objective
 Learn Linux user management, group management, file permissions, SSH key generation, and sudo privileges.
 
 ---
 
-## ✅ Tasks Completed
+## Tasks Completed
 - Created 5 users
 - Created 3 groups
 - Assigned users to groups
@@ -15,7 +15,7 @@ Learn Linux user management, group management, file permissions, SSH key generat
 
 ---
 
-## 👥 Users Created
+## Users Created
 ```bash
 sudo useradd -m dev1
 sudo useradd -m dev2
@@ -26,7 +26,7 @@ sudo useradd -m manager1
 
 ---
 
-## 👨‍👩‍👧 Groups Created
+## Groups Created
 ```bash
 sudo groupadd developers
 sudo groupadd testers
@@ -35,7 +35,7 @@ sudo groupadd operations
 
 ---
 
-## 🔗 Group Assignment
+## Group Assignment
 ```bash
 sudo usermod -aG developers dev1
 sudo usermod -aG developers dev2
@@ -46,7 +46,7 @@ sudo usermod -aG sudo manager1
 
 ---
 
-## 🔐 Permissions Setup
+## Permissions Setup
 ```bash
 sudo mkdir -p /company/{dev,test,ops}
 sudo chmod 770 /company/dev
@@ -56,7 +56,7 @@ sudo chmod 770 /company/ops
 
 ---
 
-## 🔑 SSH Key Generation
+## SSH Key Generation
 ```bash
 ssh-keygen
 ```
@@ -67,5 +67,5 @@ Generated files:
 
 ---
 
-## ⭐ Result
+## Result
 Successfully completed Day 3 Linux administration task.
