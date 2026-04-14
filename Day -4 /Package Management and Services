@@ -1,0 +1,23 @@
+# Package Managers Practice
+
+## Ubuntu
+Used apt package manager
+
+Commands:
+sudo apt update
+sudo apt install nginx -y
+
+## Amazon Linux
+Used yum/dnf package manager
+
+Commands:
+sudo yum install nginx -y
+
+## Red Hat
+Used dnf package manager
+
+Commands:
+sudo dnf install nginx -y
+
+## Services
+Used systemctl to start, stop, restart, and enable services.
