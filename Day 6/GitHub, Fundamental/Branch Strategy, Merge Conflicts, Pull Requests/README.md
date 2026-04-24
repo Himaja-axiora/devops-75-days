@@ -1,10 +1,5 @@
 # 🚀 NexoraPulse Backend – Git Workflow Implementation
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Himaja-axiora/nexorapulse_backend)
-![GitHub last commit](https://img.shields.io/github/last-commit/Himaja-axiora/nexorapulse_backend)
-![GitHub branches](https://img.shields.io/github/branches/Himaja-axiora/nexorapulse_backend)
-![GitHub issues](https://img.shields.io/github/issues/Himaja-axiora/nexorapulse_backend)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Himaja-axiora/nexorapulse_backend)
 
 ---
 
